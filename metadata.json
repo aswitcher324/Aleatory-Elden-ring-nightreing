@@ -1,0 +1,6 @@
+{
+  "name": "Elden Ring Nightreign Explorer",
+  "description": "An application to explore Elden Ring Nightreign wiki pages dynamically by fetching related pages and allowing users to navigate to a random page.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
