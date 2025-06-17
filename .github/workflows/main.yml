@@ -37,7 +37,7 @@ jobs:
         run: npx cap sync android
 
       - name: Grant execute permission for gradlew
-        run: chmod +x android/gradlew
+        run: chmod +x gradlew)
         working-directory: ./android # Ensure this is where gradlew is
 
       - name: Build Android Debug APK
