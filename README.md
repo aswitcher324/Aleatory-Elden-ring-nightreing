@@ -18,16 +18,3 @@ This is an Android application that, when installed on your phone, will take you
         *   Alternatively, when you try to open the APK file for the first time, your phone might prompt you to allow the installation from that specific source (e.g., your browser or file manager app).
 3.  **Install the App:** Once permissions are set, tap on the downloaded `app-debug.apk` file to begin the installation. Follow the on-screen prompts.
 
-## Development (Original Instructions - May not be relevant)
-
-The following instructions were part of the original README and might not be relevant to the current Android app's functionality.
-
----
-**Prerequisites:** Node.js
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
----
